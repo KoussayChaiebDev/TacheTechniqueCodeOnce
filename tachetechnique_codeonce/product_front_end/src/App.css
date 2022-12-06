@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: grey;
+  font-family: verdana;
+  font-size: 100%;
+  text-align: center;
+}
+
+#toolbar {
+  background-color: #999999;
+}
+
+#add {
+background-color: #BD1E59;}
+
+body{
+  background-color:#4A4A4A;
+}
